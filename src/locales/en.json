@@ -1,0 +1,75 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "app_management": "App Management",
+    "issue_review": "Issue Review",
+    "collections": "Collections",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "total_apps": "Total Apps",
+    "total_views": "Total Views",
+    "total_downloads": "Total Downloads",
+    "pending_issues": "Pending Issues",
+    "app_statistics": "App Statistics",
+    "top_apps": "Top Apps"
+  },
+  "apps": {
+    "title": "App Management",
+    "search_placeholder": "Search apps...",
+    "refresh": "Refresh",
+    "uid": "UID",
+    "name": "Name",
+    "categories": "Categories",
+    "downloads": "Downloads",
+    "views": "Views",
+    "license": "License",
+    "actions": "Actions",
+    "detail": "Detail",
+    "remove": "Remove"
+  },
+  "issues": {
+    "title": "Issue Review",
+    "filter_status": "Status",
+    "filter_all": "All",
+    "filter_pending": "Pending",
+    "filter_verified": "Verified",
+    "filter_resolved": "Resolved",
+    "refresh": "Refresh",
+    "app_uid": "App UID",
+    "title_col": "Title",
+    "type": "Type",
+    "status_col": "Status",
+    "created": "Created",
+    "actions": "Actions",
+    "resolve": "Resolve",
+    "reject": "Reject"
+  },
+  "collections": {
+    "title": "Collections Management",
+    "create": "Create Collection",
+    "name": "Name",
+    "description": "Description",
+    "sort_order": "Sort Order",
+    "apps_count": "Apps",
+    "created": "Created",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create_title": "Create New Collection",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "settings": {
+    "title": "System Settings",
+    "api_url": "API Server URL",
+    "cdn_url": "CDN URL",
+    "sync_interval": "Data Sync Interval",
+    "hours": "hours",
+    "save": "Save Settings",
+    "data_sync": "Data Sync",
+    "sync_description": "Manually trigger a data reload from main.json. This refreshes all app data on the server.",
+    "sync_now": "Sync Data Now"
+  }
+}

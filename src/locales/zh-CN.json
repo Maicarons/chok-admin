@@ -1,0 +1,75 @@
+{
+  "menu": {
+    "dashboard": "仪表盘",
+    "app_management": "应用管理",
+    "issue_review": "问题审核",
+    "collections": "合集管理",
+    "settings": "系统设置"
+  },
+  "dashboard": {
+    "title": "仪表盘",
+    "total_apps": "应用总数",
+    "total_views": "总浏览量",
+    "total_downloads": "总下载量",
+    "pending_issues": "待处理问题",
+    "app_statistics": "应用统计",
+    "top_apps": "热门应用"
+  },
+  "apps": {
+    "title": "应用管理",
+    "search_placeholder": "搜索应用...",
+    "refresh": "刷新",
+    "uid": "UID",
+    "name": "名称",
+    "categories": "分类",
+    "downloads": "下载量",
+    "views": "浏览量",
+    "license": "协议",
+    "actions": "操作",
+    "detail": "详情",
+    "remove": "移除"
+  },
+  "issues": {
+    "title": "问题审核",
+    "filter_status": "状态",
+    "filter_all": "全部",
+    "filter_pending": "待处理",
+    "filter_verified": "已核实",
+    "filter_resolved": "已解决",
+    "refresh": "刷新",
+    "app_uid": "应用 UID",
+    "title_col": "标题",
+    "type": "类型",
+    "status_col": "状态",
+    "created": "创建时间",
+    "actions": "操作",
+    "resolve": "解决",
+    "reject": "拒绝"
+  },
+  "collections": {
+    "title": "合集管理",
+    "create": "创建合集",
+    "name": "名称",
+    "description": "描述",
+    "sort_order": "排序",
+    "apps_count": "应用数",
+    "created": "创建时间",
+    "actions": "操作",
+    "edit": "编辑",
+    "delete": "删除",
+    "create_title": "创建新合集",
+    "cancel": "取消",
+    "save": "保存"
+  },
+  "settings": {
+    "title": "系统设置",
+    "api_url": "API 服务器地址",
+    "cdn_url": "CDN 地址",
+    "sync_interval": "数据同步间隔",
+    "hours": "小时",
+    "save": "保存设置",
+    "data_sync": "数据同步",
+    "sync_description": "手动触发从 main.json 重新加载数据。这将刷新服务器上的所有应用数据。",
+    "sync_now": "立即同步"
+  }
+}
